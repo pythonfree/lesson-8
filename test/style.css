@@ -1,0 +1,15 @@
+
+
+
+
+
+.header {
+    height: 80px;
+    background-color: #cccccc;
+}
+
+@media (min-width: 320px) and (max-width: 500px) {
+    .header {
+        background-color: forestgreen;
+    }
+}
